@@ -1,4 +1,4 @@
-**ROS programs and files for motion planning with a UR5e arm**\
+**Motion planning with ROS for a ur5e robotic arm**\
 \
 `roslaunch ur_e_gazebo ur5e.launch ` to launch gazebo \
 \
